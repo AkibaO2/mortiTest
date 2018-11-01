@@ -1,6 +1,6 @@
 ---
-title: The Black Shark (Xiaomi-backed gaming phone)
-date: 2018-5-15 08:00:00
+title: The Black Shark (Xiaomi-Backed Gaming Phone)
+date: 2018-10-03 08:00:00
 category: Xiaomi Build Phone For Gaming
 ---
 
@@ -10,13 +10,15 @@ category: Xiaomi Build Phone For Gaming
 
 ### Liquid cooling and attachable analog stick
 
-A new mobile dubbed the Black Shark marks, in a roundabout way, Xiaomi’s entry in to the gaming phone industry. The device’s launch follows an investment made by Xiaomi in Dark Shark Technology, a Chinese video games company that will presumably form the main Mi ecosystem.
+A new mobile dubbed the Black Shark marks, in a roundabout way, Xiaomi's entry in to the gaming phone industry. The device's launch follows an investment made by Xiaomi in Dark Shark Technology, a Chinese video games company that will presumably form the main Mi ecosystem.
 
-The Dark Shark’s black-and-green styling won’t come as a surprise to anyone who’s seen the Razer Mobile, the most prominent video games phone available today, although it’s a whole lot smoother and curvier. (Also, check those green chamfered edges.) Inside, it gets the appropriately high specs you’d expect: a Snapdragon 845, up to 8GB of RAM, a 1080p 21:9 display, and a 4,000mAh battery.
+The Dark Shark's black-and-green styling won't come as a surprise to anyone who's seen the Razer Mobile, the most prominent video games phone available today, although it's a whole lot smoother and curvier. (Also, check those green chamfered edges.) Inside, it gets the appropriately high specs you'd expect: a Snapdragon 845, up to 8GB of RAM, a 1080p 21:9 display, and a 4,000mAh battery.
 
-There’s no reference to a higher refresh rate display, unlike the Razer Cellphone, however the Black Shark mobile phone earns its gamer credentials by method of a great attachable analog stay controller that snaps onto 1 side of the screen. The telephone also supposedly has authentic “liquid cooling,” a term that’s previously been employed for heat pipe-design cooling alternatives on phones just like the Lumia 950, which isn’t quite a similar thing as what you’d get on a gaming PC. In any case, Black Shark is claiming temperature reductions of 8 degrees Celsius.
+<!-- more -->
 
-The Dark Shark phone is open to preorder online now for 3499 yuan (about $480) for a model with 6GB of RAM and 64GB of storage - which is pretty cheap for a phone with a Snapdragon 845. It’s not yet determined whether Xiaomi will get selling it directly, even so. We’ve reached out for clarification on this and the relationship between your two companies.
+There's no reference to a higher refresh rate display, unlike the Razer Cellphone, however the Black Shark mobile phone earns its gamer credentials by method of a great attachable analog stay controller that snaps onto 1 side of the screen. The telephone also supposedly has authentic "liquid cooling," a term that's previously been employed for heat pipe-design cooling alternatives on phones just like the Lumia 950, which isn't quite a similar thing as what you'd get on a gaming PC. In any case, Black Shark is claiming temperature reductions of 8 degrees Celsius.
+
+The Dark Shark phone is open to preorder online now for 3499 yuan (about $480) for a model with 6GB of RAM and 64GB of storage - which is pretty cheap for a phone with a Snapdragon 845. It's not yet determined whether Xiaomi will get selling it directly, even so. We've reached out for clarification on this and the relationship between your two companies.
 
 Although gaming phones remain a pretty market worldwide, they produce more sense in China than almost every other places due to the overwhelming popularity of relatively hardcore portable games just like the dominating MOBA Honor of Kings and various spins on the PUBG battle royale formula. Dedicated consoles don't have the same amount of penetration in China, therefore the idea of a phone focused on gaming performance is possibly attractive to serious players. Last month, Xiaomi as well announced its primary gaming-first computer, the Mi Games Laptop.
 
@@ -24,7 +26,7 @@ Although gaming phones remain a pretty market worldwide, they produce more sense
 
 The Black Shark video gaming phone uses Snapdragon 845 Octa Core CPU the best processor, with 4 x Kryo 385 Gold @2.8GHz core, 4 x Kryo 385 Silver @1.77GHz core, and Adreno 630 GPU. Its performance is drastically improved, 25 - 30% greater than Snapdragon 835. Although Xiaomi Mi 8, Mi Mix 2S and Samsung Galaxy S9+ as well uses the most powerful processor, their performances aren't as satisfying. Evidently, Dark Shark has an outstanding multilayer cooling kit to attain the entire potential of the CPU.
 
-After playing the overall game Arena of Valor for 2 hours, the temperature of Black Shark averages 8°C less than its competitors. It is because Dark Shark boasts 20 instances better heat dissipation. Due to this fact, the CPU has the ability to operate at full speed on a regular basis without sacrificing its performance to lessen the temperature.
+After playing the overall game Arena of Valor for 2 hours, the temperature of Black Shark averages 8 degrees Celsius less than its competitors. It is because Dark Shark boasts 20 instances better heat dissipation. Due to this fact, the CPU has the ability to operate at full speed on a regular basis without sacrificing its performance to lessen the temperature.
 
 In comparison with Razer Phone2, the predominant games phone released in 2017, Black Shark loads webpages, video gaming faster, and presents brighter images for you.
 
