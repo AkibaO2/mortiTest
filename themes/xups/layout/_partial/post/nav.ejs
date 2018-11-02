@@ -1,0 +1,40 @@
+<!-- 上一篇/下一篇 -->
+<% if (post.prev || post.next) { %>
+<div class="article-nav clearfix">
+    <% if (post.prev) { %>
+    <span class="prev fl">
+        Previous<br >
+        <a href="<%- url_for(post.prev.path) %>">
+            <% if (post.prev.title) { %>
+                <%= post.prev.title %>
+            <% } else { %>
+                Untitled
+            <% } %>
+        </a>
+    </span>
+    <% } else { %>
+    <span class="prev fl">
+        Previous<br >
+        <a href="<%= config.root %>">Home</a>
+    </span>
+    <% } %>
+
+    <% if (post.next) { %>
+    <span class="next fr">
+        Next<br >
+        <a href="<%- url_for(post.next.path) %>">
+            <% if (post.next.title) { %>
+                <%= post.next.title %>
+            <% } else { %>
+                Untitled
+            <% } %>
+        </a>
+    </span>
+    <% } else { %>
+    <span class="next fr">
+        Next<br >
+        <a href="<%= config.root %>">Home</a>
+    </span>
+    <% } %>
+</div>
+<% } %>

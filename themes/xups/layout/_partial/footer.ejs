@@ -1,0 +1,11 @@
+<footer class="footer">
+    &copy;
+    <% if (new Date().getFullYear() == 2018) { %>
+        <%- new Date().getFullYear() %>
+    <% } else { %>
+        2018-<%- new Date().getFullYear() %>
+    <% } %>
+
+    <a href="<%- url_for() %>">Motimer Nova</a>
+</footer>
+<div class="back-to-top" id="JELON__backToTop" title="Top">Back to top</div>
