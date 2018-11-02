@@ -14,7 +14,7 @@ Artificial intelligence has swept the panel with humans in online games just lik
 
 The bots were the creation of OpenAI, a nonprofit research lab founded by tech luminaries such as for example SpaceX CEO Elon Musk. The lab's definitive goal is to build up artificial intelligence that "rewards most of humanity," but teaching bots to perform Dota offers been a crucial research task for quite a while now. Playing video gaming may seem to be trivial, but it's a huge challenge for AI, needing teamwork, long-term strategy, and complex decision-making. The expectation is that these skills, once honed in video games, can be applied to real-life challenges.
 
-### ‘DOTA 2’ Presents A Lot Better Challenge Than Board Games
+### DOTA 2 Presents A Lot Better Challenge Than Board Games
 
 In last night's meet, though, AI could not quite muster the goods. Both teams swung backwards and forwards in the early stages of the overall game, with individuals taking the lead, in that case AI, then individuals. But ultimately, it had been human technique that carried the day.
 
@@ -24,7 +24,7 @@ This isn't to state that the bots showed no strategic thinking at all. Definatel
 
 This is as you might expect. The AI program, after all, plays like a equipment. It doesn't receive flustered and it possesses usage of the game's backend, presenting it an accurate feed of amounts covering information just like the health of every hero and distance between them.
 
-The humans’ victory wasn't a complete surprise either. Although OpenAI's bots have previously beaten top pros in 1v1 matches and teams of qualified amateurs in 5v5 matches, we were holding comparatively simpler games. A 1v1 meet emphasizes skills where AI excels (like precision timing), and the 5v5 suits were used more restrictions. Dota 2 has a number of complex mechanics, including an enormous roster of character types from which to choose, each with their very own expertise, and in-game devices such as couriers (NPCs which deliver items like health potions) which enhance the strategy. In before games, OpenAI removed plenty of these elements, however in the suits at The International this week it's adding some back, increasing the game's difficulty.
+The human's victory wasn't a complete surprise either. Although OpenAI's bots have previously beaten top pros in 1v1 matches and teams of qualified amateurs in 5v5 matches, we were holding comparatively simpler games. A 1v1 meet emphasizes skills where AI excels (like precision timing), and the 5v5 suits were used more restrictions. Dota 2 has a number of complex mechanics, including an enormous roster of character types from which to choose, each with their very own expertise, and in-game devices such as couriers (NPCs which deliver items like health potions) which enhance the strategy. In before games, OpenAI removed plenty of these elements, however in the suits at The International this week it's adding some back, increasing the game's difficulty.
 
 Speaking to The Verge ahead of the game yesterday evening, OpenAI co-founder and chief researcher Greg Brockman explained an internal poll of staff had suggested there is "significantly less than a 50 percent probability of earning." "That was the overall consensus," explained Brockman, before adding that that which was really important was the amount that the AI team was improving. "Usually we start playing clubs when we're about at their level, a week or two later we surpass them. And which has took place to us several times now."
 
